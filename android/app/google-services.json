@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "787558008952",
+    "project_id": "app-firebase-423fe",
+    "storage_bucket": "app-firebase-423fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787558008952:android:1ca69b7871997c0de7058d",
+        "android_client_info": {
+          "package_name": "com.example.car_access_office"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvmQ5YCC5W41DwPUC_gMW6cAH-kPtq_Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787558008952:android:e60476a9cbe46899e7058d",
+        "android_client_info": {
+          "package_name": "com.example.yuemlod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvmQ5YCC5W41DwPUC_gMW6cAH-kPtq_Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
